@@ -9,10 +9,11 @@
 ![GitHub Org's stars](https://img.shields.io/github/license/i12rumon/Proyecto--401)
  
 ## Estado del proyecto
-<p align="center">
+<center>
+<p>
    <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green">
    </p>
-   
+   </center>
 ## Descripción del proyecto
 Ucestudio es un sistema de gestión de cursos de extensión especializada en cursos de la Universidad de Córdoba.
 El sistema permitirá la inscripción del usuario en los distintos cursos que posee la Universidad de Córdoba,además el visitante podrá consultar sin haber iniciado sesión los diferentes cursos que nuestro sistema posee.
