@@ -9,7 +9,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/license/i12rumon/Proyecto--401)
  
 ## Estado del proyecto
-<p align="left">
+<p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green">
    </p>
    
