@@ -1,6 +1,8 @@
 <h1 align="center">UCESTUDIA</h1>
 
 ![ucestudia](https://user-images.githubusercontent.com/118832996/207945172-5a7e86c5-eaef-42a9-bb1f-90d09e4fa67f.png)
+
+ 
 ## Insignias
  ![GitHub Org's stars](https://img.shields.io/github/forks/i12rumon/Proyecto--401)
 
