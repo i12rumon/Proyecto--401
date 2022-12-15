@@ -40,7 +40,7 @@
         }
       }
     </style>
-c
+
     
   </head>
   <body>
