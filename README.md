@@ -33,39 +33,38 @@ El sistema permitirá la inscripción del usuario en los distintos cursos que po
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
-
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+*[Lenguajes utilizados](#lenguajes-utilizados)
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-*[Licencia](#licencia)
+*[Conclusión](#Conclusión)
 
-*[Conclusión](#conclusión)
+## Características de la aplicación y demostración
 
-# Características de la aplicación y demostración
-
-## :hammer:Funcionalidades del proyecto
+### :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Consulta de la oferta formativa.
 - `Funcionalidad 2`: Creación de nuevos Cursos de extensión
 - `Funcionalidad 3`: Inscripción en los diferentes cursos.Ofrece la posibilidad de desincripción
 - `Funcionalidad 4`: Gestión de listas de espera
 
-## Personas desarrolladoras del proyecto
-| [<sub>i12rumon </sub>](https://github.com/i12rumon)
-| [<sub>i12qugaa </sub>](https://github.com/i12qugaa)
-| [<sub>i12mocab </sub>](https://github.com/i12mocab)
-## Tecnologías utilizadas
+## 💻:Tecnologías utilizadas
+- Bootstrap
+- VSCode
+
+## Lenguajes utilizados
 - HTML
 - CSS
 - PHP
 - JavaScript
 - SQL
 
-
+## Personas-Desarrolladores del proyecto
+| [<sub>i12rumon </sub>](https://github.com/i12rumon)
+| [<sub>i12qugaa </sub>](https://github.com/i12qugaa)
+| [<sub>i12mocab </sub>](https://github.com/i12mocab)
 
 
 
