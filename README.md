@@ -37,7 +37,7 @@ El sistema permitirá la inscripción del usuario en los distintos cursos que po
 
 *[Lenguajes utilizados](#lenguajes-utilizados)
 
-*[Personas-Desarrolladores del Proyecto](#Personas-Desarrolladores del proyecto)
+*[Personas-Desarrolladores del Proyecto](#Personas-Desarrolladores-del-proyecto)
 
 ## Características de la aplicación y demostración
 
