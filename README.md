@@ -10,7 +10,7 @@
  
 ## Estado del proyecto
 
-   <div align="center"<img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green"> </div>
+   <div align="center"><img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green"> </div>
 
   
 ## Descripción del proyecto
