@@ -19,7 +19,7 @@
 <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <style>
       .bd-placeholder-img {
-        font-size: ´100%;
+        font-size: 100%;
         text-anchor: middle;
         -webkit-user-select: none;
         -moz-user-select: none;

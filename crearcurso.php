@@ -1,5 +1,5 @@
 <?php
-ob_start();
+session_start(); 
 ?>
 <html>
   <head>
@@ -25,23 +25,30 @@ ob_start();
   </head>
   <body>
 
+
   <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="menu-coordinadorcursos.php"><h4><em>Coordinador de Cursos</em></h4></a>
+          <a class="navbar-brand" href="menu-administrador.php"><h4><em>Administrador</em></h4></a>
           <button class="toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-                <a class="nav-link" href="menu-coordinadorcursos.php">Home</a>
-              </li> 
-              <li class="nav-item active">
-                <a class="nav-link" href="crearcurso.php">Crear Curso</a>
+                <a class="nav-link" href="menu-administrador.php">Home</a>
               </li> 
               <li class="nav-item">
-              <a class="nav-link" href="seleccionarcurso.php">Modificar curso</a>
+                <a class="nav-link" href="administrarusuarios.php">Administrar usuarios</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="vercursos.php">Cursos</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="crearcurso.php">Crear Cursos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="seleccionarcurso.php">Modificar curso</a>
               </li>
               <li class="nav-item">
               <a class="nav-link" href="cerrar.php">Cerrar sesión</a>
@@ -53,6 +60,7 @@ ob_start();
    
 </header>
 
+
 </br>
 </br>
 </br></br>
@@ -60,7 +68,7 @@ ob_start();
    <div class="container">
   
 
-    <form id="formregistro" action="crearcurso.php" method="post" 
+    <form id="formregistro" action="grabarcurso.php" method="post" 
     enctype="multipart/form-data"  >
  
 
@@ -121,25 +129,14 @@ ob_start();
     <div class="invalid-feedback"></div>
   </div>
 
-                 <!-- Descripcion requisitos--> 
-   <div class="form-group">
-    <label for="descripcion"><b>Requisitos * </b></label>
-    <input type="text" placeholder="Requisitos del curso" class="form-control" id="requisitos" name="requisitos"  required >    <div class="invalid-feedback">Descripción debe ser válida</div>
-    </div>
-
-                  <!-- Correo Coordinador de cursos--> 
-                  <div class="form-group">
-    <label for="descripcion"><b>Correo Coordinador de Cursos * </b></label>
-    <input type="text" placeholder="Correo del coordinador de cursos" class="form-control" id="coordcursos" name="coordcursos"  required >    <div class="invalid-feedback">Descripción debe ser válida</div>
-    </div>
-
+   
 
      <div class="d-grid gap-2 d-md-block">
      <button class="btn btn-primary" name="Enviar" type="submit">Añadir</button>
-  <button class="btn btn-danger" onclick="location.href='menu-coordinadorcursos.php'" type="button">Cancelar</button>
+  <button class="btn btn-danger" onclick="location.href='menu-administrador.php'" type="button">Cancelar</button>
 
 </div>
-   <p class="mt-5 mb-3 text-muted">&copy; 2020-2021</p>
+   <p class="mt-5 mb-3 text-muted">&copy; 2022-2023</p>
  
 
    </form>
@@ -150,7 +147,8 @@ ob_start();
        { 
        	   
        	    include ('grabarcurso.php');
-       	    header("location: ./menu-coordinadorcursos.php");	}; 
+             
+       	    	}; 
        	    ?>
 
 
