@@ -12,7 +12,7 @@
  
 ## Estado del proyecto
 
-   <div align="center"><img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green"> </div>
+   <div align="center"><img src="https://img.shields.io/badge/STATUS-TERMINADO%20-green"> </div>
 
   
 ## Descripción del proyecto
@@ -45,8 +45,8 @@ El sistema permitirá la inscripción del usuario en los distintos cursos que po
 
 - `Funcionalidad 1`: Consulta de la oferta formativa.
 - `Funcionalidad 2`: Creación de nuevos Cursos de extensión
-- `Funcionalidad 3`: Inscripción en los diferentes cursos.Ofrece la posibilidad de desincripción
-- `Funcionalidad 4`: Gestión de listas de espera
+- `Funcionalidad 3`: Inscripción en los diferentes cursos.
+- `Funcionalidad 4`: Gestión de listas de espera.
 
 ## 💻:Tecnologías utilizadas
 - Bootstrap
